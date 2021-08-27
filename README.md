@@ -9,7 +9,7 @@ How to use it:
 <ul>
 <li>in a terminal open "Corona_mit_Sprache_Irina.ipynb" with a Notebook IDE (eg  jupyter notebook or google collab)</li>
 <li>run all</li>
-<li>Ask your questions</li>
+<li>ask your questions</li>
 </ul>
 
 **Installation**
