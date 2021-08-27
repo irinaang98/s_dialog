@@ -6,9 +6,11 @@ The code is also linked with [Eliza](eliza.py) so that the dialog system replies
 The dialog system uses also the program [EmoRec](emorec.py) for recognizing the user's emotions and replies accordingly.
 
 How to use it:
-in a terminal open "Corona_mit_Sprache_Irina.ipynb" with a Notebook IDE (eg  jupyter notebook or google collab)
-run all
-Ask your questions
+<ul>
+<li>in a terminal open "Corona_mit_Sprache_Irina.ipynb" with a Notebook IDE (eg  jupyter notebook or google collab)</li>
+<li>run all</li>
+<li>Ask your questions</li>
+</ul>
 
 **Installation**
 
