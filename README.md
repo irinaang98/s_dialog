@@ -14,3 +14,4 @@ How to use it:
 
 **Installation**
 
+You need to install [Jupyter Notebook](https://jupyter.org/install), [emodb](http://emodb.bilderbar.info/docu/) and a code editor, for example [Visual Studio Code](https://code.visualstudio.com/download).
