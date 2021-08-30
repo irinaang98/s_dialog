@@ -21,4 +21,6 @@ The dialog system uses also the program [EmoRec](emorec.py) for recognizing the 
 **Installation**
 
 [Jupyter Notebook](https://jupyter.org/install); [emodb](http://emodb.bilderbar.info/docu/)
+
+
 **Author**: Irina Anghelescu 
