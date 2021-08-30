@@ -14,6 +14,5 @@ The dialog system uses also the program [EmoRec](emorec.py) for recognizing the 
 
 **Installation**
 
-You need to install [Jupyter Notebook](https://jupyter.org/install), [emodb](http://emodb.bilderbar.info/docu/) and a code editor, for example [Visual Studio Code](https://code.visualstudio.com/download).
-
+You need to install [Jupyter Notebook](https://jupyter.org/install) and [emodb](http://emodb.bilderbar.info/docu/)
 **Author**: Irina Anghelescu 
